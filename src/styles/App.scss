@@ -1,0 +1,12 @@
+//SETUP
+@import './setup/variables.scss';
+@import './setup/typography.scss';
+@import './setup/mixins.scss';
+
+//BASICS
+@import './basics/base.scss';
+@import './basics/helpers.scss';
+@import './basics/layout.scss';
+
+//CMPS
+@import './cmps/header.scss';
